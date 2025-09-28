@@ -119,13 +119,6 @@ RoboticsTelemetryDashboardAssignment/
   ├── client/   # React frontend
   └── server/   # Node.js/Express backend
 ```
-
----
-
-## Contact
-
-For questions or deployment help, contact the project maintainer.
-
 ---
 
 ## Screenshots
