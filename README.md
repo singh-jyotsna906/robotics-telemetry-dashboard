@@ -125,3 +125,19 @@ RoboticsTelemetryDashboardAssignment/
 ## Contact
 
 For questions or deployment help, contact the project maintainer.
+
+---
+
+## Screenshots
+
+### Register Page
+![Register](docs/register.png)
+
+### Login Error
+![Login Error](docs/login_error.png)
+
+### Dashboard
+![Dashboard](docs/dashboard.png)
+
+### Edit/Config Page
+![Edit](docs/edit.png)
